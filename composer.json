@@ -1,9 +1,9 @@
 {
-	"name": "paxapos/cakephp-bootstrap3-helpers",
+	"name": "paxapos/cakephp-bootstrap3-helpers-pp",
 	"description": "CakePHP highly configurable helpers for Bootstrap 3 framework.",
 	"type": "cakephp-plugin",
 	"keywords": ["cakephp","bootstrap","helper"],
-	"homepage": "https://github.com/Codaxis/bootstrap3-helpers",
+	"homepage": "https://github.com/paxapos/bootstrap3-helpers",
 	"license": "MIT",
 	"authors": [
 		{
